@@ -1,0 +1,1 @@
+json.partial! @elevator, partial: "elevator", as: :elevator

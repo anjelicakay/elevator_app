@@ -1,0 +1,4 @@
+json.current_floor elevator.current_floor
+json.target_floor elevator.target_floor
+json.direction elevator.direction
+json.building_id elevator.building_id
